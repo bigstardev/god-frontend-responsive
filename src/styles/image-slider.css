@@ -1,0 +1,15 @@
+/* customize some css of react-elastic-carousel */
+
+.jJKuoL{
+    background-color: black !important;
+    box-shadow: 0 0 1px 3px #aaa !important;
+}
+.jJKuoL:hover, .jJKuoL:focus {
+    box-shadow: 0 0 1px 3px #aaa !important;
+}
+
+@media (min-width:768px) {
+ .rec-pagination{
+     display: none !important;
+ }
+} 
